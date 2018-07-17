@@ -1,0 +1,27 @@
+/* Blue color code from dark to light
+ * #00B2FF
+ * #4DC9FF
+ * #80D9FF
+ * #B3E8FF
+ */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #B3E8FF;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
+  font-size: 40px;
+  padding: 20px;
+  margin: 0;
+}
+
+p {
+  font-size: 20px;
+  padding: 20px;
+  margin: 0;
+}
