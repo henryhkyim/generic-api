@@ -1,0 +1,29 @@
+{
+  "name": "generic-api",
+  "version": "1.0.0",
+  "description": "A project to provide web api returning configurable JSON format results. It's useful to quickly create web service end-point that able to return JSON results for testing purpose.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryhkyim/generic-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryhkyim/generic-api/issues"
+  },
+  "homepage": "https://github.com/henryhkyim/generic-api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
